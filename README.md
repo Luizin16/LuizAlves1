@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img aling="center" alt="" src".
+
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Instituto Federal de Santa Catarina. <br>
   Estou constantemente atualizando meus conhecimentos e buscando desafios na área de tecnologia. <br>
@@ -65,5 +67,14 @@
   </a>
 </div>
 
+
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luizin16/Luizin16/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ![Snake animation](https://github.com/Luizin16/Luizin16/blob/output/github-contribution-grid-snake.svg)
