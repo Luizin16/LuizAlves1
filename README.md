@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img aling="center" alt="" src".
+
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Instituto Federal de Santa Catarina. <br>
