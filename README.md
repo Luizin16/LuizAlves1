@@ -4,13 +4,17 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c690ffe9-6bb6-46fe-b92f-36604cda4f82" alt="Banner" width="100%">
+</div>
 
-
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Instituto Federal de Santa Catarina. <br>
-  Estou constantemente atualizando meus conhecimentos e buscando desafios na área de tecnologia. <br>
-  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-</p>
+<div align="center">
+  <p>
+    Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Instituto Federal de Santa Catarina. <br>
+    Estou constantemente atualizando meus conhecimentos e buscando desafios na área de tecnologia. <br>
+    Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  </p>
+</div>
 
 ---
 
@@ -67,8 +71,6 @@
   </a>
 </div>
 
-
-
 ---
 
 ### 🐍 Snake Contribution Graph
@@ -77,4 +79,5 @@
   <img src="https://raw.githubusercontent.com/Luizin16/Luizin16/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
-![Snake animation](https://github.com/Luizin16/Luizin16/blob/output/github-contribution-grid-snake.svg)
+---
+
